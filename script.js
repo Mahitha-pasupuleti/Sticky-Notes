@@ -58,7 +58,7 @@ function addNote(form) {
             console.log(value);
         }
         else {
-            alert("Both fields are mandatory!");
+            alert("Both fields are mandatory!!");
         }
     });
     if(noteDetails.length == 2) {
